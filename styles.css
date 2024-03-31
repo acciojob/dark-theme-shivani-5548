@@ -17,21 +17,3 @@
 #ptag{
 color:red;
 }
-.day {
-        background-color: #ffffff;
-        color: #000000;
-    }
-
-    .night {
-        background-color: #333333;
-        color: #ffffff;
-    }
-
-    .button_day {
-        background-color: #007bff;
-        color: #ffffff;
-    }
-
-    .button_night {
-        background-color: #343a40;
-        color: #ffffff;

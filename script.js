@@ -5,7 +5,7 @@ function swapTheme() {
     var swapButton = document.getElementById('swap');
 
     if (app.classList.contains('day')) {
-        app.classList.remove('day');
+       app.classList.remove('day');
         app.classList.add('night');
         swapButton.classList.remove('button_day');
         swapButton.classList.add('button_night');
